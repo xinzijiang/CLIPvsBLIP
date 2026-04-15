@@ -1,0 +1,12 @@
+CLIP Prompt Perturbation Summary | material
+
+    task  prompt_group       subset    n  mean_margin  median_margin  std_margin  mean_correct_score  mean_max_wrong_score
+material correct_style      overall 2000    -0.002329      -0.004599    0.020405            0.246819              0.249148
+material correct_style catalog_like  796    -0.001415      -0.003467    0.019700            0.246204              0.247620
+material correct_style less_curated 1204    -0.002933      -0.005399    0.020843            0.247226              0.250158
+material     near_miss      overall 2000    -0.006056      -0.003938    0.014358            0.253273              0.259329
+material     near_miss catalog_like  796    -0.005389      -0.003591    0.014452            0.253965              0.259354
+material     near_miss less_curated 1204    -0.006497      -0.004411    0.014284            0.252815              0.259312
+material   wrong_style      overall 2000    -0.012909      -0.013800    0.027073            0.242558              0.255467
+material   wrong_style catalog_like  796    -0.013687      -0.015161    0.027036            0.241860              0.255547
+material   wrong_style less_curated 1204    -0.012395      -0.013200    0.027096            0.243019              0.255414

@@ -1,0 +1,32 @@
+CLIP vs BLIP Comparison Summary
+
+Overall Metrics
+model  subset     n  accuracy  macro_f1
+ CLIP overall 19999  0.675184  0.661717
+ BLIP overall 20000  0.745850  0.721139
+
+Style Metrics
+model       subset     n  accuracy  macro_f1
+ CLIP catalog_like  7898  0.685363  0.655613
+ CLIP less_curated 12101  0.668540  0.660198
+ BLIP catalog_like  7898  0.749557  0.712865
+ BLIP less_curated 12102  0.743431  0.722413
+
+Class Metrics
+model        class  precision   recall       f1  support
+ CLIP  long sleeve   0.805556 0.635279 0.710356     6117
+ CLIP short sleeve   0.382213 0.856074 0.528476     3474
+ CLIP   sleeveless   0.898431 0.638259 0.746321    10408
+ BLIP  long sleeve   0.793252 0.780284 0.786715     6117
+ BLIP short sleeve   0.488008 0.726252 0.583758     3474
+ BLIP   sleeveless   0.864745 0.732155 0.792946    10409
+
+Robustness Gap
+model  accuracy_gap_catalog_minus_less  macro_f1_gap_catalog_minus_less
+ CLIP                         0.016824                        -0.004585
+ BLIP                         0.006126                        -0.009548
+
+Relative Improvement
+  metric     clip     blip  absolute_improvement  relative_improvement_percent
+accuracy 0.675184 0.745850              0.070666                     10.466223
+macro_f1 0.661717 0.721139              0.059422                      8.979951

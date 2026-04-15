@@ -1,0 +1,13 @@
+task,model,prompt_family,subset,n,accuracy,macro_f1
+sleeve,BLIP,descriptive_single,overall,20000,0.51755,0.46309833841364806
+sleeve,BLIP,descriptive_single,catalog_like,7898,0.545327931121803,0.4830890537791463
+sleeve,BLIP,descriptive_single,less_curated,12102,0.4994215832093869,0.4532006343942443
+sleeve,BLIP,studio_single,overall,20000,0.719,0.6525784082218936
+sleeve,BLIP,studio_single,catalog_like,7898,0.7428462902000507,0.6686220102444929
+sleeve,BLIP,studio_single,less_curated,12102,0.7034374483556437,0.6401870035043525
+sleeve,BLIP,lifestyle_single,overall,20000,0.5728,0.46245396636553776
+sleeve,BLIP,lifestyle_single,catalog_like,7898,0.5855912889339073,0.44918808497071677
+sleeve,BLIP,lifestyle_single,less_curated,12102,0.5644521566683193,0.46535796174438016
+sleeve,BLIP,technical_single,overall,20000,0.5444,0.3631327193893001
+sleeve,BLIP,technical_single,catalog_like,7898,0.6092681691567485,0.3741210606753494
+sleeve,BLIP,technical_single,less_curated,12102,0.5020657742521897,0.3538800416847878

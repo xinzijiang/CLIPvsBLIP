@@ -1,0 +1,16 @@
+task,model,prompt_family,subset,n,accuracy,macro_f1
+pattern,BLIP,descriptive_single,overall,17577,0.5930477328326791,0.39517816485443696
+pattern,BLIP,descriptive_single,catalog_like,6920,0.5676300578034682,0.3623871432097744
+pattern,BLIP,descriptive_single,less_curated,10657,0.6095524068687248,0.417084309401303
+pattern,BLIP,studio_single,overall,17577,0.7195767195767195,0.6382052684190832
+pattern,BLIP,studio_single,catalog_like,6920,0.7200867052023121,0.6465895418320423
+pattern,BLIP,studio_single,less_curated,10657,0.7192455662944544,0.6311611347350736
+pattern,BLIP,lifestyle_single,overall,17577,0.7640097855151619,0.6996515305585252
+pattern,BLIP,lifestyle_single,catalog_like,6920,0.7619942196531792,0.7034363058177157
+pattern,BLIP,lifestyle_single,less_curated,10657,0.7653185699540208,0.6964495006775908
+pattern,BLIP,attribute_only_single,overall,17577,0.5975991352335438,0.3644631169744835
+pattern,BLIP,attribute_only_single,catalog_like,6920,0.580635838150289,0.3383521756798923
+pattern,BLIP,attribute_only_single,less_curated,10657,0.6086140564886928,0.37942895103045615
+pattern,BLIP,technical_single,overall,17577,0.6064743699152302,0.4977606889679901
+pattern,BLIP,technical_single,catalog_like,6920,0.599421965317919,0.4976384367840749
+pattern,BLIP,technical_single,less_curated,10657,0.6110537674767759,0.49671832158325746

@@ -1,0 +1,16 @@
+task,model,prompt_family,subset,n,accuracy,macro_f1
+sleeve,CLIP,descriptive_single,overall,20000,0.37545,0.3487020589243066
+sleeve,CLIP,descriptive_single,catalog_like,7898,0.40098759179539123,0.3547759173203664
+sleeve,CLIP,descriptive_single,less_curated,12102,0.3587836721203107,0.34417751127874263
+sleeve,CLIP,studio_single,overall,20000,0.36055,0.26603758896484714
+sleeve,CLIP,studio_single,catalog_like,7898,0.2955178526209167,0.2244415964822001
+sleeve,CLIP,studio_single,less_curated,12102,0.4029912411171707,0.2906354396549155
+sleeve,CLIP,lifestyle_single,overall,20000,0.48155,0.3640402271445691
+sleeve,CLIP,lifestyle_single,catalog_like,7898,0.5400101291466194,0.3722370771968384
+sleeve,CLIP,lifestyle_single,less_curated,12102,0.44339778549000164,0.3554279416807067
+sleeve,CLIP,attribute_only_single,overall,20000,0.3823,0.35037975175618646
+sleeve,CLIP,attribute_only_single,catalog_like,7898,0.33046340845783745,0.3103806881468642
+sleeve,CLIP,attribute_only_single,less_curated,12102,0.41612956536109735,0.3766566960008031
+sleeve,CLIP,technical_single,overall,20000,0.51095,0.3299852692886324
+sleeve,CLIP,technical_single,catalog_like,7898,0.5706507976702963,0.33534508050847256
+sleeve,CLIP,technical_single,less_curated,12102,0.47198810114030737,0.3228619058249646

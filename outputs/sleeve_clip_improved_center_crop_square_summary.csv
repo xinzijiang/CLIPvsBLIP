@@ -1,0 +1,4 @@
+task,model,preprocess_mode,subset,n,accuracy,macro_f1
+sleeve,CLIP_IMPROVED,center_crop_square,overall,20000,0.4867,0.47620626780512443
+sleeve,CLIP_IMPROVED,center_crop_square,catalog_like,7898,0.46581413015953405,0.45572356125159036
+sleeve,CLIP_IMPROVED,center_crop_square,less_curated,12102,0.5003305238803504,0.4878469583152915

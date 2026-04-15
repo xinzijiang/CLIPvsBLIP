@@ -1,0 +1,61 @@
+Experiment 1: Zero-shot CLIP baseline on full sleeve-type subset
+
+Model:
+openai/clip-vit-base-patch32
+
+Prompts:
+- a photo of a long sleeve top
+- a photo of a short sleeve top
+- a photo of a sleeveless top
+
+Dataset size:
+20000
+
+Label distribution:
+label
+sleeveless      10409
+long sleeve      6117
+short sleeve     3474
+
+Style split distribution:
+style_split
+less_curated    12102
+catalog_like     7898
+
+Overall Results:
+Accuracy: 0.6751837591879594
+Macro F1: 0.6617174714283183
+
+Confusion Matrix:
+[[3886 1867  364]
+ [ 113 2974  387]
+ [ 825 2940 6643]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+ long sleeve       0.81      0.64      0.71      6117
+short sleeve       0.38      0.86      0.53      3474
+  sleeveless       0.90      0.64      0.75     10408
+
+    accuracy                           0.68     19999
+   macro avg       0.70      0.71      0.66     19999
+weighted avg       0.78      0.68      0.70     19999
+
+
+By Style Split:
+catalog_like
+n = 7898
+accuracy = 0.6853633831349709
+macro_f1 = 0.6556128683466492
+less_curated
+n = 12101
+accuracy = 0.6685397900999918
+macro_f1 = 0.6601983420997463
+
+
+Saved prediction CSV:
+/content/drive/MyDrive/dsresearch/outputs/deepfashion_sleeve_clip_predictions_exp1_full.csv
+
+Saved confusion matrix figure:
+/content/drive/MyDrive/dsresearch/outputs/deepfashion_sleeve_clip_confusion_matrix_exp1_full.png

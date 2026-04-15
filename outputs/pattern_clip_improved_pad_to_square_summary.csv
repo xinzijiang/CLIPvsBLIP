@@ -1,0 +1,4 @@
+task,model,preprocess_mode,subset,n,accuracy,macro_f1
+pattern,CLIP_IMPROVED,pad_to_square,overall,17577,0.4331228309722933,0.4753225856437414
+pattern,CLIP_IMPROVED,pad_to_square,catalog_like,6920,0.4297687861271676,0.4634800110584584
+pattern,CLIP_IMPROVED,pad_to_square,less_curated,10657,0.43530074129680024,0.48074326598597195

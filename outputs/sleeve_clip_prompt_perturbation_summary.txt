@@ -1,0 +1,12 @@
+CLIP Prompt Perturbation Summary | sleeve
+
+  task  prompt_group       subset    n  mean_margin  median_margin  std_margin  mean_correct_score  mean_max_wrong_score
+sleeve correct_style      overall 2000     0.004218       0.005774    0.015613            0.256208              0.251991
+sleeve correct_style catalog_like  826     0.003967       0.005723    0.015281            0.254376              0.250409
+sleeve correct_style less_curated 1174     0.004394       0.005778    0.015847            0.257498              0.253104
+sleeve     near_miss      overall 2000     0.003846       0.001473    0.017924            0.269468              0.265622
+sleeve     near_miss catalog_like  826     0.006698       0.006611    0.017802            0.269413              0.262715
+sleeve     near_miss less_curated 1174     0.001840      -0.002282    0.017745            0.269507              0.267667
+sleeve   wrong_style      overall 2000    -0.016405      -0.016856    0.034183            0.225203              0.241609
+sleeve   wrong_style catalog_like  826    -0.018520      -0.019263    0.035643            0.223435              0.241955
+sleeve   wrong_style less_curated 1174    -0.014917      -0.015589    0.033051            0.226447              0.241365

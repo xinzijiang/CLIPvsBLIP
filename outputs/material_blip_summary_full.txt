@@ -1,0 +1,31 @@
+BLIP Results | material
+
+Accuracy: 0.4286507495835647
+Macro F1: 0.5043021011388941
+
+Confusion Matrix:
+[[ 853  142  103   45   51]
+ [   6 2799   32   27   21]
+ [ 381 8112 3324  536 1251]
+ [   2   51    0  347    6]
+ [  14  468   30   41 1169]]
+
+Classification Report:
+              precision    recall  f1-score   support
+
+       denim       0.68      0.71      0.70      1194
+     chiffon       0.24      0.97      0.39      2885
+      cotton       0.95      0.24      0.39     13604
+     leather       0.35      0.85      0.50       406
+        knit       0.47      0.68      0.55      1722
+
+    accuracy                           0.43     19811
+   macro avg       0.54      0.69      0.50     19811
+weighted avg       0.78      0.43      0.42     19811
+
+
+Style Split Summary:
+model     task       subset     n  accuracy  macro_f1
+ BLIP material      overall 19811  0.428651  0.504302
+ BLIP material catalog_like  7847  0.410730  0.503986
+ BLIP material less_curated 11964  0.440405  0.504480

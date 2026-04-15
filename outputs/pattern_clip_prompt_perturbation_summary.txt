@@ -1,0 +1,12 @@
+CLIP Prompt Perturbation Summary | pattern
+
+   task  prompt_group       subset    n  mean_margin  median_margin  std_margin  mean_correct_score  mean_max_wrong_score
+pattern correct_style      overall 2000     0.006747       0.005866    0.016655            0.250436              0.243689
+pattern correct_style catalog_like  789     0.007197       0.006402    0.016358            0.250909              0.243713
+pattern correct_style less_curated 1211     0.006454       0.005601    0.016846            0.250128              0.243674
+pattern     near_miss      overall 2000    -0.004522      -0.004946    0.011736            0.257337              0.261858
+pattern     near_miss catalog_like  789    -0.004461      -0.004915    0.011640            0.257873              0.262334
+pattern     near_miss less_curated 1211    -0.004561      -0.005047    0.011803            0.256987              0.261548
+pattern   wrong_style      overall 2000    -0.017983      -0.019995    0.033037            0.235482              0.253465
+pattern   wrong_style catalog_like  789    -0.019541      -0.023173    0.033115            0.231747              0.251288
+pattern   wrong_style less_curated 1211    -0.016968      -0.018324    0.032960            0.237916              0.254884

@@ -1,0 +1,501 @@
+image_path,style_split,ground_truth,prediction,correct
+/content/deepfashion_data/img_highres/Textured_Maxi_Cardigan/img_00000005.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Racerback_Tank/img_00000014.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Sheer_Back_Tee/img_00000030.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Geo_Elephant_Print_Tee/img_00000035.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Boxy_Split-Neck_Blouse/img_00000003.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Nautical-Striped_Cotton_Tee/img_00000016.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Life_In_Progress_Abstract_Print_Chambray_Tank/img_00000011.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Cutout-Back_Sheath_Dress/img_00000008.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Abstract-Stripe_Fuzzy_Sweater/img_00000018.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Ikat_Print_Shorts/img_00000014.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Side_Vent_Heathered_Tank/img_00000040.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Los_Angeles_Dreamer_Tank/img_00000045.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Box-Pleated_Gingham_Skirt/img_00000012.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Colorblocked_Surplice_Dress/img_00000013.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Open-Front_Coat/img_00000010.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Cropped_Open-Front_Blazer/img_00000031.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Diamond_Print_Halter_Cami_Dress/img_00000019.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Cloud_Wash_Skinny_Jeans/img_00000011.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Classic_Peplum_Dress/img_00000030.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Tiered_Crochet_Tank/img_00000014.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Buttoned_Floral_Maxi_Dress/img_00000078.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Curved-Hem_Tank/img_00000006.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Floral_Lace_Overlay_Dress/img_00000059.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Geo_Print_Dolman_Tee/img_00000016.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Classic_V-Neck_Cardigan/img_00000021.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Multi-Stripe_Shirt_Dress/img_00000010.jpg,catalog_like,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Chiffon-Paneled_Sheath_Dress/img_00000027.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Basic_Heathered_Tank/img_00000032.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Tribal_Print_Tulip-Back_Tank/img_00000001.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lace_Trim_Cami_Romper/img_00000010.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Floral_Print_Crepe_Kimono/img_00000042.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Crossover-Waist_Athletic_Shorts/img_00000020.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Tribal_Print_Drawstring_Joggers/img_00000013.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Broad_Stripe_Knit_Tee/img_00000011.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Marled_Knit_Zippered_Hoodie/img_00000017.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Floral_Print_Culottes/img_00000052.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Classic_Dolman_Top/img_00000015.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Marled_Knit_Cropped_Tank/img_00000028.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lace_Pencil_Skirt/img_00000002.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Embroidered_Peasant_Blouse/img_00000054.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Classic_Striped_Top/img_00000007.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Micro-Striped_Trouser_Shorts/img_00000039.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Paint_Splatter_Tank/img_00000022.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Abstract_Mandala_Print_Skirt/img_00000016.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Safari_Print_Drawstring_Shorts/img_00000034.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Colorblock_Tee/img_00000057.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Print_Fluted_Dress/img_00000042.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Ruffled_Cami_Dress/img_00000037.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Scalloped_Crochet_Tank/img_00000012.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Bodycon_Faux_Wrap_Dress/img_00000067.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Rose_Print_Mini_Skirt/img_00000022.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Longline_Split-Back_Tee/img_00000003.jpg,less_curated,short sleeve,long sleeve,0
+/content/deepfashion_data/img_highres/Floral_Crochet_Shift_Dress/img_00000021.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Abstract_Print_Cutout_Jumpsuit/img_00000024.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Pleated_Faux_Leather_Skirt/img_00000012.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Lace_Raglan_Romper/img_00000013.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Floral_Bow-Back_Dress/img_00000013.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/American_Flag_Sweater/img_00000072.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Forget_Me_Not_Babydoll_Dress/img_00000028.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Boho_Babe_Crochet_Top/img_00000038.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Faded_Skinny_Jeans/img_00000012.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Low-Rise_Skinny_Jeans/img_00000038.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/DARE_Muscle_Tee/img_00000015.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Linen-Blend_Drawstring_Shorts/img_00000009.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Rose_Print_Lace-Up_Dress/img_00000039.jpg,less_curated,short sleeve,long sleeve,0
+/content/deepfashion_data/img_highres/Paisley_Print_Sun_Dress/img_00000029.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Mock_Neck_Velveteen_Dress/img_00000018.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Basic_Crew_Neck_Tee/img_00000011.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Boho_Doll_Crocheted_Cardigan/img_00000008.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Mosaic_Print_Peasant_Dress/img_00000032.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Medallion_Print_Sheath_Dress/img_00000041.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Tasseled_Open-Front_Cardigan/img_00000031.jpg,catalog_like,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Classic_Waffle_Knit_Sweater/img_00000006.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Tropical_Print_Leggings/img_00000046.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Boxy_Chiffon_Top/img_00000001.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Floral_Bodycon_Dress/img_00000009.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Easy_Going_Muscle_Tee/img_00000019.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Crochet_Woven_Blouse/img_00000065.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Lace_Sleeve_Tee/img_00000080.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Chiffon_Curved_Hem_Blouse/img_00000051.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Striped_Twist-Front_Blouse/img_00000088.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Embroidered_Overlay_Sheath_Dress/img_00000013.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Paisley_Print_Maxi_Dress/img_00000014.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Faux_Leather_Panel_Hoodie/img_00000017.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Belted_Crochet-Paneled_Peasant_Dress/img_00000028.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Mineral_Wash_Pencil_Skirt/img_00000047.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Textured_Knit_Skater_Dress/img_00000010.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Two-Tone_Loose-Knit_Sweater/img_00000013.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Flutter-Hem_Tee/img_00000042.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Flounced_Knit_Dress/img_00000045.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Grid_Print_Jumpsuit/img_00000024.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Ribbed_Knit_Striped_Dress/img_00000025.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Varsity-Striped_Skirt/img_00000006.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Chevron-Striped_Maxi_Dress/img_00000006.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lace_Overlay_Maxi_Dress/img_00000029.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Open-Front_Duster_Coat/img_00000050.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Paisley_Print_Cami_Dress/img_00000002.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Abstract_Geo_Chiffon_Tank/img_00000025.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Pleated_Mosaic_Print_Skirt/img_00000035.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Life_in_Progress_Belted_Shirt_Dress/img_00000002.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Tribal_Print_Dolphin_Shorts/img_00000017.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Zip_Pocket_Blazer/img_00000122.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Lace_Back_Shift_Dress/img_00000001.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Self-Tie_Neck_Blouse/img_00000029.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Basic_Crew_Neck_Tee/img_00000022.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Striped_Crew_Neck_Sweater/img_00000020.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Mod_Moment_Sheath_Dress/img_00000021.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Classic_Drawstring_Hoodie/img_00000022.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Longline_Marled_Single-Button_Jacket/img_00000028.jpg,less_curated,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Crochet_Sleeve_Babydoll_Dress/img_00000042.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Print_Pleated_Shorts/img_00000013.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Mixed_Paisley_Print_Maxi_Skirt/img_00000029.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Slim_Cotton_Chinos/img_00000019.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Hooded_Chambray_Parka_Jacket/img_00000025.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Basic_V-Neck_Tee/img_00000046.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Rugby_Striped_Crew_Neck_Sweater/img_00000040.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Single-Button_Blazer/img_00000100.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Tassel-Trimmed_Shorts/img_00000016.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Triple-Blocked_Capri_Leggings/img_00000038.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Backless_Bodycon_Dress/img_00000018.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Tie-Dye_Bodycon_Cami_Dress/img_00000007.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Contrast_Mesh-Paneled_Tee/img_00000040.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Harry_Potter_Muscle_Tee/img_00000002.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Transformers_Muscle_Tee/img_00000008.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Tulip_Front_Blazer/img_00000058.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Plaid_Drawstring_Dress/img_00000028.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Sleeveless_Hoodie/img_00000007.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Crochet-Embroidered_Midi_Dress/img_00000034.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Longline_Boyfriend_Blazer/img_00000113.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Colorblocked_Hooded_Knit_Henley/img_00000029.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Crochet-Trimmed_Blouse/img_00000013.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Varsity_Joggers/img_00000048.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Two-Pocket_Cardigan/img_00000002.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Geo_Print_Open-Shoulder_Dress/img_00000010.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Colorblock_Pleated_Sheath_Dress/img_00000076.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Medallion_Print_Sheath_Dress/img_00000020.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Striped_Tribal_Print_Blouse/img_00000082.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Fringed_Lace_Kimono/img_00000014.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Bad_Influence_Tee/img_00000053.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Geo_Knit_Maxi_Dress/img_00000036.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Two-Button_Blazer/img_00000162.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Classic_Open-Front_Cardigan/img_00000019.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Pleated_Woven_Joggers/img_00000021.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Self-Tie_Neck_Blouse/img_00000018.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Longline_Boyfriend_Blazer/img_00000122.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Cutout-Back_Midi_Dress/img_00000031.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Long_Crew_Neck_Tee/img_00000031.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Elasticized_Flared_Jeans/img_00000026.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Layered_Eyelet_Dress/img_00000051.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Amour_Peplum_Top/img_00000044.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Festive_Fete_Beaded_Blouse/img_00000041.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Lace-Paneled_Sheath_Dress/img_00000040.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Sequined_Paisley_Shift_Dress/img_00000047.jpg,less_curated,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Abstract_Print_Crop_Top/img_00000003.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Art_Nouveau_Floral_Print_Top/img_00000004.jpg,less_curated,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Hooded_Stripe_Poncho/img_00000048.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Pintucked_Chiffon_Blouse/img_00000031.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Boxy_Floral_Print_Top/img_00000012.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Mesh-Paneled_Running_Shorts/img_00000009.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Collarless_Faux_Fur_Jacket/img_00000075.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Hooded_Cotton_Canvas_Anorak/img_00000106.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/French_Terry_Tee/img_00000026.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Stripe_Slub_Knit_Tee/img_00000012.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Classic_Utility_Jumpsuit/img_00000012.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Floral_Print_Surplice_Romper/img_00000026.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Chic_High-Waisted_Jeggings/img_00000033.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Faux_Leather_Hooded_Jacket/img_00000026.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Faux_Leather_Jersey/img_00000055.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Distressed_Mid-Rise_Boyfriend_Jeans/img_00000001.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Pleated_Faux_Leather_Skirt/img_00000025.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Love_More_Graphic_Pocket_Tee/img_00000023.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Textured_Knit_Dress/img_00000044.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Geo_Striped_Maxi_Dress/img_00000047.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Tie-Dye_Lace-Up_Maxi_Dress/img_00000046.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Distressed_Denim_Bermuda_Shorts/img_00000072.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Boxy_Open-Knit_Sweater/img_00000048.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Daring_Mesh-Trimmed_Bodycon_Dress/img_00000028.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Abstract_Print_Peasant_Dress/img_00000030.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Ornate_Floral_Babydoll_Dress/img_00000012.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Zippered_Sweatshorts/img_00000021.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Dot-Patterned_Athletic_Tank/img_00000011.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Bon_Voyage_Maxi_Dress/img_00000056.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Short-Sleeved_Crepe_Jumpsuit/img_00000042.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Chiffon_Paneled_Sweater/img_00000004.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Crepe_Zippered_Blouse/img_00000086.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Marled_Terrycloth_PJ_Sweatpants/img_00000026.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Garden_Party_Bow_Dress/img_00000026.jpg,catalog_like,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Safari_Animal_Print_Tank/img_00000021.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Classic_Baseball_Jersey/img_00000005.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Stretch-Knit_Shorts/img_00000014.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Faded_Distressed_Jeans/img_00000029.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Dallas_Denim_Jacket/img_00000012.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Crepe_Drawstring_Joggers/img_00000045.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Colorblocked_Faux_Leather_Varsity_Jacket/img_00000052.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Textured_Stripe_Cowl_Neck_Sweater/img_00000058.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Hooded_Maxi_Dress/img_00000048.jpg,less_curated,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Longline_Faux_Fur_Jacket/img_00000014.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Layered_A-Line_Dress/img_00000019.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Cloud_Wash_Tee/img_00000058.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Print_Zipper_Blouse/img_00000056.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Ethereal_Draped_Front_Blouse/img_00000065.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Striped_Sweater-Knit_Hoodie/img_00000032.jpg,catalog_like,short sleeve,long sleeve,0
+/content/deepfashion_data/img_highres/Polka_Dot_Swim_Trunks/img_00000062.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Boxy_Crepe_Top/img_00000008.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Stripe-Pocket_Tank/img_00000035.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Faux_Shearling_Moto_Jacket/img_00000005.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Deep_V-Neck_Pleated_Dress/img_00000044.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Heathered_Babydoll_Dress/img_00000032.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Barbie_Tank_Top/img_00000032.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Play_With_My_Hair_Tee/img_00000030.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Colorblocked_Pocket_Striped_Tee/img_00000041.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Must-Have_Ruched_Blazer/img_00000055.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Pintucked_Chiffon_Blouse/img_00000046.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Paisley_Print_Maxi_Skirt/img_00000024.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Fuzzy_Plaid_Sweater/img_00000006.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Two-Button_Blazer/img_00000151.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Striped_Henley/img_00000065.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Floral_Crochet_A-Line_Dress/img_00000020.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/California_66_Tie-Dye_Tank/img_00000043.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Mesh_Overlay_Sheath_Dress/img_00000019.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Dream_Alive_Cuffed-Sleeve_Tee/img_00000015.jpg,less_curated,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Crocheted_Leaf_Print_Romper/img_00000005.jpg,less_curated,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Woven_Sheath_Dress/img_00000020.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Flutter_Sleeve_Surplice_Dress/img_00000009.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Cool_Shirt_Day_Tee/img_00000030.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Tribal_Print_Strapless_Jumpsuit/img_00000046.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Cuffed_Raglan_Tee/img_00000006.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Mesh_Drawstring_Shorts/img_00000039.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Pleated_Jacquard_Tea_Dress/img_00000012.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Heathered_Dolman_Sweater/img_00000015.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Distressed_Denim_Jacket/img_00000013.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Tribal_Print_Skater_Skirt/img_00000043.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Caged_V-Neck_Maxi_Dress/img_00000042.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Tribal_Print_Linen_Blazer/img_00000036.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Distressed_Denim_Mini_Skirt/img_00000006.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Favorite_V-Neck_Tee/img_00000009.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Dotted_Bow_Blouse/img_00000104.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Draped_Chiffon_Wrap_Jacket/img_00000034.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Barbie_Perfect_Tee/img_00000051.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Denim_Daze_Ripped_Shorts/img_00000038.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Lace_Mini_Skirt/img_00000060.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Slub_Knit_Pocket_Tee/img_00000052.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Tailored_Woven_Blazer/img_00000038.jpg,catalog_like,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Boxy_Tank_Top/img_00000030.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Homies_Graphic_Tee/img_00000005.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Faux_Suede_Shift_Dress/img_00000021.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Brooklyn_Nets_Graphic_Tank/img_00000025.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lace_Halter_Dress/img_00000017.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Reason_Statue_of_Liberty_Mesh_Tank/img_00000022.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Slub_Knit_Sweatshorts/img_00000028.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Classic_Crepe_Shorts/img_00000025.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Chained_Cutout-Back_Top/img_00000029.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Abstract_Print_Trapeze_Dress/img_00000018.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Marled_French_Terry_Hoodie/img_00000045.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Baroque_Print_Crop_Top/img_00000060.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Belted_Plaid_Dress/img_00000008.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Floral_Lace_Halter_Dress/img_00000059.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Leopard_Print_Cutoff_Sweatshorts/img_00000032.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Collared_Surplice_Blouse/img_00000077.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Brushstroke_Print_Belted_Shift_Dress/img_00000034.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Camo_Print_Shorts/img_00000019.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Buttoned_Denim_Shift_Dress/img_00000022.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Open-Front_Shawl_Lapel_Blazer/img_00000015.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Floral_Print_Buttoned_Tank/img_00000001.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Multi-Stripe_V-Neck_Tee/img_00000016.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Print_Jumpsuit/img_00000003.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Button-Front_Blazer/img_00000062.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Medallion_Print_Blouse/img_00000088.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Stripe_Print_Surplice_Blouse/img_00000042.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Asymmetrical_Dolman_Sweater/img_00000019.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Faux_Leather_Grid_Shorts/img_00000049.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Floral_Paisley_Cami_Dress/img_00000008.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Enchanted_Maxi_Dress/img_00000010.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/City_Print_Dolman_Top/img_00000031.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Botanical_Print_Shift_Dress/img_00000053.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Split-Back_Pleated_Blouse/img_00000030.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Asymmetrical_Open-Front_Blazer/img_00000083.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Leopard_Print_Cami_Dress/img_00000050.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Bell_Sleeve_Blouse/img_00000089.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Ribbed_Knit_Cami_Dress/img_00000008.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Stripe_Trapeze_Dress/img_00000003.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Classic_Hooded_Duffle_Coat/img_00000049.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Floral_Lace_Pencil_Skirt/img_00000035.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Crisscross_Bodycon_Dress/img_00000006.jpg,less_curated,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Belted_Lace_Skater_Dress/img_00000057.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Garden_Party_Bow_Dress/img_00000008.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Hidden_Zippered_Placket_Blouse/img_00000005.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Classic_Knit_Tee/img_00000026.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Quilted_Open-Front_Blazer/img_00000047.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Striped_Metallic-Woven_Sweater/img_00000042.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Dainty_A-Line_Dress/img_00000020.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Pleated_Textured_Skirt/img_00000030.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Low-Back_Halter_Jumpsuit/img_00000046.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Abstract_Print_Cutout_Dress/img_00000027.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Slub_Knit_Drawstring_Hoodie/img_00000010.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Embroidered_Racerback_Tank/img_00000041.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Knotted_Sheath_Dress/img_00000013.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Pleated_A-Line_Mini_Skirt/img_00000008.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Striped_Bodycon_Dress/img_00000030.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Stripe_Slub_Knit_Tee/img_00000023.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Belted_Pleat-Front_Shorts/img_00000002.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Three-Button_Pima_Cotton-Blend_Henley/img_00000055.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Lace_Insert_Bodycon_Dress/img_00000028.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Abstract_Print_Drawstring_Shorts/img_00000001.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Embroidered_Babydoll_Dress/img_00000080.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Embroidered_Woven_Dress/img_00000063.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Embroidered_Mesh-Back_Tank/img_00000042.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Fringed_Shawl_Cardigan/img_00000022.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Striped_T-Back_Maxi_Dress/img_00000015.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Heathered_Knit_Drawstring_Jumpsuit/img_00000010.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Longline_Crepe_Blouse/img_00000078.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Open-Front_Collared_Jacket/img_00000022.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Open-Back_Blouse/img_00000145.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Dreamcatcher_Muscle_Tee/img_00000046.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Island_Tropics_Buttoned_Dress/img_00000047.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Splattered_Stripe_Maxi_Dress/img_00000008.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Longline_Muscle_Tee/img_00000007.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Slub_Knit_Tank/img_00000036.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Crepe_Shift_Dress/img_00000013.jpg,catalog_like,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Gingham_Print_Skater_Dress/img_00000041.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Striped_Open-Front_Fringed_Poncho/img_00000023.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Textured_Zigzag_Bodycon_Dress/img_00000006.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Stretch_Knit_Leggings/img_00000009.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Abstract_Print_Peasant_Top/img_00000004.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Tile_Print_Jumpsuit/img_00000063.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/White_Distressed_Skinny_Jeans/img_00000047.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Varsity-Striped_Ringer_Tank/img_00000005.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Cloud_Wash_Skinny_Jeans/img_00000004.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Paisley_High-Slit_Maxi_Dress/img_00000016.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lace_Trimmed_Blouse/img_00000131.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Clustered_Floral_Muscle_Tee/img_00000001.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Embroidered_Self-Tie_Blouse/img_00000039.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Tribal-Inspired_Print_Kimono/img_00000004.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Southwestern_Burnout_Tee/img_00000035.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Fringed_Tie-Dye_Racerback_Tank/img_00000024.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Boyz_II_Men_Muscle_Tee/img_00000073.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Smocked_Floral_Maxi_Dress/img_00000039.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Striped_Pocket_Tee/img_00000030.jpg,less_curated,short sleeve,long sleeve,0
+/content/deepfashion_data/img_highres/Tribal_Print_Crinkled_Shorts/img_00000011.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Pleated_Woven_Blouse/img_00000072.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Cutout-Back_Tank/img_00000004.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Chiffon_Surplice_Dress/img_00000051.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Cutout_Sheath_Dress/img_00000080.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Faux_Fur_Jacket/img_00000036.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Classic_Racerback_Tank/img_00000014.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Pleated_Floral_Print_Blouse/img_00000079.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Cuffed_Knit_Blazer/img_00000012.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Classic_Long-Sleeved_Tee/img_00000027.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Baroque_Pattern_Skater_Skirt/img_00000043.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Basic_Athletic_Racerback_Tank/img_00000028.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Kimono-Sleeved_Paisley_Blouse/img_00000106.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Longline_Side-Slit_Blazer/img_00000013.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Crochet_Pencil_Skirt/img_00000006.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Crochet-Paneled_Cardigan/img_00000022.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Dotted_Skater_Dress/img_00000008.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/High_Collar_Running_Jacket/img_00000005.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Geo_Tribal_Print_A-Line_Skirt/img_00000035.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Clustered_Floral_Print_Skater_Skirt/img_00000032.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/V-Neck_Crop_Tee/img_00000027.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Ribbed_Sweetheart_Dress/img_00000005.jpg,less_curated,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Faux_Leather_Shawl_Collar_Blazer/img_00000118.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Sunburst_Print_Romper/img_00000023.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Abstract_Print_Peasant_Blouse/img_00000080.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Metallic_Wrap_Skirt/img_00000004.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Metallic_Sheer-Paneled_Sweater/img_00000014.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Print_Zipper_Blouse/img_00000119.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/T-Back_High-Slit_Dress/img_00000053.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Paisley_High-Slit_Maxi_Dress/img_00000011.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Sparkling_Ruched_Dress/img_00000040.jpg,less_curated,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Classic_Button-Down_Cardigan/img_00000052.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Belted_Stripe_Pattern_Dress/img_00000039.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Pleated_Mosaic_Print_Skirt/img_00000008.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Draped_Tribal_Pattern_Cardigan/img_00000017.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Surplice_Maxi_Dress/img_00000001.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Mesh-Paneled_Skater_Dress/img_00000023.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Faux_Leather_Mini_Skirt/img_00000010.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Cheetah_Print_High-Neck_Blouse/img_00000010.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Quilted_Drawstring_Sweatshorts/img_00000005.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Chevron_Surplice_Jumpsuit/img_00000027.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Asymmetric_Printed_Wrap_Dress/img_00000013.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Abstract_Stripe_Print_Jumpsuit/img_00000018.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Ribbed_Crop_Tee/img_00000075.jpg,catalog_like,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Floral_Print_Halter_Maxi_Dress/img_00000011.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Ikat_Print_Chiffon_Blouse/img_00000092.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/French_Terry_Tee/img_00000041.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Collarless_Longline_Side-Slit_Jacket/img_00000021.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Print_Zipper_Blouse/img_00000067.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Dropped_Hem_T-Shirt_Dress/img_00000028.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lace-Paneled_Pleated_Dress/img_00000049.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Perfect_Pleats_Shift_Dress/img_00000045.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Low-Rise_Denim_Cutoffs/img_00000016.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Mixed_Knit_Cowl_Neck_Sweater/img_00000016.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Pleated_Convertible_Overall_Romper/img_00000003.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Embroidered_Floral_Dress/img_00000035.jpg,less_curated,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Floral_Print_Surplice_Dress/img_00000028.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Marled_Skater_Skirt/img_00000005.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Acid_Wash_Denim_Skirt/img_00000010.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lacy_Knotted_Tee/img_00000021.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Floral_Print_Top/img_00000009.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Slub_Knit_Buttoned-Back_Blouse/img_00000033.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Floral_Lace_Cutout_Dress/img_00000038.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Floral_Lace_Blouse/img_00000125.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Woven_Open-Back_Blouse/img_00000110.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Linen_Babydoll_Dress/img_00000003.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Mid-Rise_-_Zippered_Skinny_Jeans/img_00000038.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Quilted_Drop-Waist_Dress/img_00000053.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Pintucked_Rose_Print_Blouse/img_00000049.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Crisscross_Cutout_Back_Tee/img_00000024.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Watercolor_Ikat_M-Slit_Maxi_Dress/img_00000018.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Ditsy_Floral_Print_Blouse/img_00000048.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Leopard_Print_Cami_Dress/img_00000030.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Wildflower_Print_Leggings/img_00000020.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Classic_Raglan_Tee/img_00000063.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Fluted_Floral_Print_Dress/img_00000004.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Low-Back_Halter_Jumpsuit/img_00000049.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Palm_Print_Bodycon_Dress/img_00000007.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Caged_V-Cut_Dress/img_00000001.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Rolled_V-Neck_Sweater/img_00000040.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Faux_Leather-Trim_Blouse/img_00000014.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Nautical_Palm_Print_Tee/img_00000028.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Floral_Print_Chambray_Kimono/img_00000012.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Abstract_Stripe_Bodycon_Dress/img_00000036.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Zippered_Longline_Sweater/img_00000027.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Collared_Luxe_Faux_Fur_Jacket/img_00000020.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Cap-Sleeved_Crepe_Blouse/img_00000075.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Dropped_Lapel_Chiffon-Sleeved_Blazer/img_00000093.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Embroidered_Halter_Maxi_Dress/img_00000055.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Crochet_Daisy-Trimmed_Dress/img_00000012.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Classic_Heathered_Tee/img_00000060.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Classic_Mini_Skirt/img_00000047.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Longline_Side-Slit_Blazer/img_00000045.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/French_Terry_Shorts/img_00000008.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Two-Tone_Knit_Cardigan/img_00000061.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Tribal_Print_Romper/img_00000005.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Lace-Edged_Cami_Romper/img_00000020.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Floral_Bodycon_Dress/img_00000008.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Elephant_Print_Maxi_Dress/img_00000004.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Crochet-Hem_Shorts/img_00000040.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Self-Tie_Wrap_Culottes/img_00000016.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Floral_Bow-Back_Dress/img_00000074.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Ladder-Back_Crepe_Tank/img_00000031.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Cap-Sleeved_Shift_Dress/img_00000052.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Classic_Slim_Denim_Jeans/img_00000032.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Drapey_Mandala_Print_Cardigan/img_00000030.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Neon_Dreams_Bandage_Skirt/img_00000013.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Heathered_Paris_Tee/img_00000024.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Colorblocked_Cotton_Tee/img_00000051.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Tribal-Inspired_Maxi_Dress/img_00000025.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Faux_Shearling_Bomber_Jacket/img_00000011.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Slub_Knit_Buttoned-Back_Blouse/img_00000097.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Abstract_Geo_Print_Romper/img_00000002.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Cutout_Maxi_Cami_Dress/img_00000013.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Striped_Sheath_Dress/img_00000026.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Front-Slit_Pleated_Shift_Dress/img_00000058.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Marled_Knit_V-Neck_Tee/img_00000021.jpg,catalog_like,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Crossback_Knit_Tank/img_00000040.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Rose_Print_Cami_Dress/img_00000006.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Leopard_Print_Knit_Sweatpants/img_00000045.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Classic_Crocheted_Lace_Blouse/img_00000114.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Destroyed_Slim-Leg_Jeans/img_00000073.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/V-Neck_Button-Down_Cardigan/img_00000054.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Beaded_Flowy_Cotton_Dress/img_00000046.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Classic_Wash_-_Skinny_Jeans/img_00000022.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Textured_Baroque_Floral_Shorts/img_00000005.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Chevron_Print_Dress/img_00000040.jpg,less_curated,short sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Scoop_Neck_Maxi_Dress/img_00000073.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Boxy_Vented_Tank/img_00000026.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Marled_Knit_Joggers/img_00000018.jpg,less_curated,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Mid-Rise_-_Acid_Wash_Jeggings/img_00000012.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Heathered_Baseball_Tee/img_00000037.jpg,catalog_like,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Performance_Workout_Shorts/img_00000031.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Medallion_Print_Shorts/img_00000008.jpg,less_curated,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Distressed_Skinny_Jeans/img_00000065.jpg,catalog_like,sleeveless,long sleeve,0
+/content/deepfashion_data/img_highres/Eyelash_Lace_A-Line_Dress/img_00000029.jpg,catalog_like,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Sheer_Beaded_Blouse/img_00000005.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Abstract_Print_Draped_Blazer/img_00000075.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Fuzzy_Eyelash_Knit_Sweater/img_00000013.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Boxy_Rose_Print_Tee/img_00000020.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Floral_Print_Crepe_Kimono/img_00000010.jpg,less_curated,long sleeve,sleeveless,0
+/content/deepfashion_data/img_highres/Boxy_Chiffon_Pocket_Blouse/img_00000032.jpg,catalog_like,short sleeve,long sleeve,0
+/content/deepfashion_data/img_highres/Caged_Side_Longline_Dress/img_00000018.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Be_Seen_Open-Knit_Sweater/img_00000026.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/V-Cut_Back_Dress/img_00000013.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Abstract_Print_Pleated_Dress/img_00000015.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Buttoned_Cami_Crop_Top/img_00000017.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Civil_Regime_Tropical_Print_Jersey/img_00000014.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Hooded_Woven_Jacket/img_00000041.jpg,less_curated,long sleeve,short sleeve,0
+/content/deepfashion_data/img_highres/Layered_Cutout_Midi_Dress/img_00000040.jpg,less_curated,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Raw-Cut_Pocket_Tee/img_00000013.jpg,less_curated,short sleeve,short sleeve,1
+/content/deepfashion_data/img_highres/Boat_Neck_Heathered_Top/img_00000010.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/City_of_NY_Tank/img_00000057.jpg,catalog_like,sleeveless,short sleeve,0
+/content/deepfashion_data/img_highres/Geo_Print_Strappy_Maxi_Dress/img_00000011.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Mixed_Paisley_Print_Maxi_Skirt/img_00000015.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Structured_Quilted_Jacket/img_00000031.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Zip_Collar_Bomber/img_00000083.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Scoop_Neck_Maxi_Dress/img_00000077.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Crochet-Paneled_Cardigan/img_00000025.jpg,catalog_like,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Knit_Crew_Neck_Sweater/img_00000016.jpg,less_curated,long sleeve,long sleeve,1
+/content/deepfashion_data/img_highres/Racerback_Chiffon_Maxi_Dress/img_00000056.jpg,catalog_like,sleeveless,sleeveless,1
+/content/deepfashion_data/img_highres/Varsity-Striped_Marled_Dress/img_00000025.jpg,catalog_like,long sleeve,long sleeve,1

@@ -1,0 +1,79 @@
+Multitask Comparison Summary: CLIP vs BLIP
+
+=== Overall Metrics ===
+model     task  subset     n  accuracy  macro_f1
+ CLIP   sleeve overall 19999  0.675184  0.661717
+ CLIP  pattern overall 17577  0.686750  0.643914
+ CLIP material overall 19811  0.391752  0.399809
+ BLIP   sleeve overall 20000  0.745850  0.721139
+ BLIP  pattern overall 17577  0.809239  0.765814
+ BLIP material overall 19811  0.428651  0.504302
+
+=== Style Metrics ===
+model     task       subset     n  accuracy  macro_f1
+ CLIP   sleeve catalog_like  7898  0.685363  0.655613
+ CLIP   sleeve less_curated 12101  0.668540  0.660198
+ CLIP  pattern catalog_like  6920  0.712283  0.660949
+ CLIP  pattern less_curated 10657  0.670170  0.631751
+ CLIP material catalog_like  7847  0.395947  0.400349
+ CLIP material less_curated 11964  0.389000  0.397885
+ BLIP   sleeve catalog_like  7898  0.749557  0.712865
+ BLIP   sleeve less_curated 12102  0.743431  0.722413
+ BLIP  pattern catalog_like  6920  0.810983  0.770462
+ BLIP  pattern less_curated 10657  0.808107  0.761520
+ BLIP material catalog_like  7847  0.410730  0.503986
+ BLIP material less_curated 11964  0.440405  0.504480
+
+=== Class Metrics ===
+model     task        class  precision   recall       f1  support
+ CLIP   sleeve  long sleeve   0.805556 0.635279 0.710356     6117
+ CLIP   sleeve short sleeve   0.382213 0.856074 0.528476     3474
+ CLIP   sleeve   sleeveless   0.898431 0.638259 0.746321    10408
+ CLIP  pattern       floral   0.658637 0.755438 0.703724     3402
+ CLIP  pattern      graphic   0.471964 0.530783 0.499648     3346
+ CLIP  pattern      striped   0.452512 0.855976 0.592041     1347
+ CLIP  pattern        solid   0.892450 0.693103 0.780245     9482
+ CLIP material        denim   0.379192 0.833333 0.521215     1194
+ CLIP material      chiffon   0.298701 0.741421 0.425841     2885
+ CLIP material       cotton   0.901961 0.219788 0.353449    13604
+ CLIP material      leather   0.201408 0.704433 0.313253      406
+ CLIP material         knit   0.255339 0.784553 0.385284     1722
+ BLIP   sleeve  long sleeve   0.793252 0.780284 0.786715     6117
+ BLIP   sleeve short sleeve   0.488008 0.726252 0.583758     3474
+ BLIP   sleeve   sleeveless   0.864745 0.732155 0.792946    10409
+ BLIP  pattern       floral   0.855217 0.578189 0.689933     3402
+ BLIP  pattern      graphic   0.566928 0.908846 0.698278     3346
+ BLIP  pattern      striped   0.801932 0.739421 0.769409     1347
+ BLIP  pattern        solid   0.947988 0.866906 0.905635     9482
+ BLIP material        denim   0.679140 0.714405 0.696327     1194
+ BLIP material      chiffon   0.241877 0.970191 0.387217     2885
+ BLIP material       cotton   0.952709 0.244340 0.388931    13604
+ BLIP material      leather   0.348394 0.854680 0.495007      406
+ BLIP material         knit   0.467974 0.678862 0.554028     1722
+
+=== Style Gap ===
+model     task  accuracy_gap_catalog_minus_less  macro_f1_gap_catalog_minus_less
+ CLIP   sleeve                         0.016824                        -0.004585
+ CLIP  pattern                         0.042113                         0.029198
+ CLIP material                         0.006947                         0.002464
+ BLIP   sleeve                         0.006126                        -0.009548
+ BLIP  pattern                         0.002875                         0.008942
+ BLIP material                        -0.029674                        -0.000494
+
+=== Relative Improvement ===
+    task   metric     clip     blip  absolute_improvement  relative_improvement_percent
+  sleeve accuracy 0.675184 0.745850              0.070666                     10.466223
+  sleeve macro_f1 0.661717 0.721139              0.059422                      8.979951
+ pattern accuracy 0.686750 0.809239              0.122490                     17.836136
+ pattern macro_f1 0.643914 0.765814              0.121899                     18.930996
+material accuracy 0.391752 0.428651              0.036899                      9.418889
+material macro_f1 0.399809 0.504302              0.104494                     26.135900
+
+=== Error Metrics ===
+model     task  total  correct  error  error_rate
+ CLIP   sleeve  19999    13503   6496    0.324816
+ CLIP  pattern  17577    12071   5506    0.313250
+ CLIP material  19811     7761  12050    0.608248
+ BLIP   sleeve  20000    14917   5083    0.254150
+ BLIP  pattern  17577    14224   3353    0.190761
+ BLIP material  19811     8492  11319    0.571349
